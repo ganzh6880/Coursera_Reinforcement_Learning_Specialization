@@ -1,0 +1,6 @@
+week1/data/true_V.npy
+week1/agent.py
+week1/environment.py
+week1/plot_script.py
+week1/rl_glue.py
+week1/rndmwalk_policy_evaluation.py
